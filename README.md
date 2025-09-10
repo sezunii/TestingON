@@ -1,11 +1,11 @@
-#Capitulo 1
-##Titulo Proyecto
+# Capitulo 1
+## Titulo Proyecto
 Este es mi titulo de proyecto
 
-##Descripcion
+## Descripcion
 Esta es mi descripcion del proyecto
 
-##Integrantes
+## Integrantes
 Estos son los integrantes del proyecto
 
 Capitulo 2
